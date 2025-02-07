@@ -4,8 +4,8 @@ const app = express();
 const port = 3300;
 
 const connection = mysql.createConnection({
-  host: '192.168.1.12',
-  user: 'mugil'@'6',
+  host: '192.168.1.13',
+  user: 'mugil@6',
   password: 'Lang@999',
   database: 'mugil_dbs'
  });
